@@ -3,7 +3,7 @@ html, body {
   padding: 0px;
 }
 
-main {
+.main {
   height: 70vh;
   width: 100vw;
   display: flex;
@@ -29,4 +29,9 @@ main {
 .btn-choice{
   width: 150px;
   height: 50px;
+}
+
+.response {
+  display: flex;
+  justify-content: center;
 }
